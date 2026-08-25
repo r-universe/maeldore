@@ -1,0 +1,26 @@
+[
+  {
+    "package": "BioGeoBEARS",
+    "url": "https://github.com/nmatzke/BioGeoBEARS",
+    "via": ["deepSTRAPP"],
+    "from": "deepSTRAPP"
+  },
+  {
+    "package": "cladoRcpp",
+    "url": "https://github.com/nmatzke/cladoRcpp",
+    "via": ["deepSTRAPP", "BioGeoBEARS"],
+    "from": "deepSTRAPP"
+  },
+  {
+    "package": "contsimmap",
+    "url": "https://github.com/bstaggmartin/contsimmap",
+    "via": ["deepSTRAPP"],
+    "from": "deepSTRAPP"
+  },
+  {
+    "package": "rexpokit",
+    "url": "https://github.com/nmatzke/rexpokit",
+    "via": ["deepSTRAPP", "BioGeoBEARS"],
+    "from": "deepSTRAPP"
+  }
+]
